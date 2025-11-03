@@ -6,7 +6,7 @@
 # Add multiple lines for multiple users/devices
 
 SM2025PRO:abc123def456  # VIP User 1 (Replace abc... with real HWID)
-VIPKEY2025:xyz789hij012  # Premium User 2
+VIPKEY2025:mamun123  # Premium User 2
 TESTKEY:unknown  # Test Device (for unknown HWID)
 FREE2025:def456ghi789  # Free Trial User
 
