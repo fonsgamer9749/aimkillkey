@@ -1,1 +1,14 @@
+----------------------------------------------------------------------------------------------------
+# SM CORPORATION - AIMKILL KEY SYSTEM
+# Format: KEY:ALLOWED_HWID
+# HWID = Device Android ID (auto generate hoga app mein)
+# Example: SM2025PRO:abc123def456789 (replace with real HWID)
+# Add multiple lines for multiple users/devices
 
+SM2025PRO:abc123def456  # VIP User 1 (Replace abc... with real HWID)
+VIPKEY2025:xyz789hij012  # Premium User 2
+TESTKEY:unknown  # Test Device (for unknown HWID)
+FREE2025:def456ghi789  # Free Trial User
+
+# Expiry Note: Keys expire on 2026-01-01 (manual check in code if needed)
+----------------------------------------------------------------------------------------------------
